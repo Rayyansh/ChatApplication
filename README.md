@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>ChatApplication - Empower Conversations with Real-time Messaging</title>
-</head>
 <body>
   <h1>ChatApplication</h1>
 
