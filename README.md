@@ -43,7 +43,7 @@
   <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 
   <h2>Connect with Us</h2>
-  <p>Let's enhance communication together! Feel free to reach out on GitHub or connect via email: rayyan@example.com.</p>
+  <p>Let's enhance communication together! Feel free to reach out on GitHub.</p>
 
   <hr>
 
